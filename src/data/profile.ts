@@ -142,12 +142,12 @@ export const education: Education[] = [
     degree: 'Grado en Ciberseguridad',
     field: 'Cloud, Infraestructura & Ciberseguridad',
     institution: 'UNIR – Universidad Internacional de La Rioja',
-    period: 'En curso',
+    period: '2024 – 2025',
     location: 'Online',
     modalidad: 'Online',
     description:
       'Formación académica orientada al área tecnológica, complementando la experiencia profesional en operaciones cloud, infraestructura y ciberseguridad.',
-    current: true,
+    current: false,
   },
   {
     id: 'edu-2',
