@@ -1,0 +1,7 @@
+Colocar aquí el archivo:
+
+    cv-elias-prieto.pdf
+
+Ruta final esperada: public/assets/cv-elias-prieto.pdf
+
+Los botones "Ver CV" y "Descargar CV" apuntan a /assets/cv-elias-prieto.pdf
