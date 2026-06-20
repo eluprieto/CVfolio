@@ -7,8 +7,8 @@ export const personal = {
   name: 'Elías Joaquín Prieto',
   shortName: 'Elías Prieto',
   initials: 'EP',
-  title: 'DevSecOps Analyst II',
-  headline: 'DevSecOps Analyst II | Cloud Operations & Cybersecurity',
+  title: 'DevSecOps Engineer',
+  headline: 'DevSecOps Engineer | Cloud Operations & Cybersecurity',
   tagline:
     'Monitoreo, incident response, automatización operativa y confiabilidad en entornos cloud.',
   bio: `Profesional de Operaciones en la Nube con mentalidad analítica y enfoque en ciberseguridad.
