@@ -4,7 +4,7 @@ type Line = { type: 'prompt' | 'output'; text: string };
 
 const terminalLines: Line[] = [
   { type: 'prompt', text: 'whoami' },
-  { type: 'output',  text: 'DevSecOps Engineer — Cloud Operations, Incident Response & Cybersecurity.' },
+  { type: 'output',  text: 'Security Operations Analyst — Cloud Operations, Incident Response & Cybersecurity.' },
   { type: 'prompt', text: 'cat focus.txt' },
   { type: 'output',  text: 'Monitoring 24×7, production troubleshooting, automation, runbooks and service reliability.' },
   { type: 'prompt', text: 'ls skills/' },
