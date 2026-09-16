@@ -16,10 +16,12 @@ export default function About() {
             {/* Avatar */}
             <div className="lg:col-span-2 flex justify-center lg:justify-start">
               <div className="relative">
-                <div className="w-48 h-48 lg:w-56 lg:h-56 rounded-2xl bg-gradient-to-br from-blue-600 to-cyan-500 flex items-center justify-center shadow-card-lg">
-                  <span className="text-6xl font-bold text-white select-none">
-                    {personal.initials}
-                  </span>
+                <div className="w-48 h-48 lg:w-56 lg:h-56 rounded-2xl overflow-hidden shadow-card-lg">
+                  <img
+                    src="/assets/fotona.png"
+                    alt={personal.name}
+                    className="w-full h-full object-cover"
+                  />
                 </div>
                 {/* Decorative ring */}
                 <div className="absolute -inset-2 rounded-2xl border-2 border-blue-200 dark:border-blue-900 -z-10" />
