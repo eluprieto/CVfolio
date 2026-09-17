@@ -20,7 +20,8 @@ export default function About() {
                   <img
                     src="/assets/fotona.png"
                     alt={personal.name}
-                    className="w-full h-full object-cover scale-125 object-[center_30%]"
+                    className="w-full h-full object-cover"
+                    style={{ transform: 'scale(1.25) translateY(15px)' }}
                   />
                 </div>
                 {/* Decorative ring */}
